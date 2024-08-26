@@ -4,7 +4,7 @@ import { FaHtml5 } from "react-icons/fa";
 import { FaCss3 } from "react-icons/fa";
 import { RiJavascriptFill } from "react-icons/ri";
 import { FaNodeJs } from "react-icons/fa";
-import { FaPython } from "react-icons/fa";
+import { FaJava } from "react-icons/fa";
 import { SiMysql } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
 
@@ -69,7 +69,7 @@ const Technologies = () => {
                  initial='initial'
                  animate='animate'
                  className='rounded-2xl border-4 border-neutral-800 p-4'>
-                 <FaPython className='text-7xl text-white-300'/>
+                 <FaJava className='text-7xl text-white-300'/>
             </motion.div>
             <motion.div 
                  variants={iconVariants(4)}
