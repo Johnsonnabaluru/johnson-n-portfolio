@@ -14,8 +14,8 @@ const Navbar = () => {
           <div className='m-8 flex items-center justify-center gap-4 text-2xl ' >
             <a href="https://www.linkedin.com/in/johnsonnabaluru/"><FaLinkedin/></a>
             <a href="https://github.com/Johnsonnabaluru"><FaGithub/></a>
-            <a href="https://www.instagram.com/_johns0n._/"><FaInstagram/></a>
-            <a href="https://x.com/nabalurujohnson"><FaSquareXTwitter/></a>
+            <a href="https://www.instagram.com/_johnson_n/"><FaInstagram/></a>
+            <a href="https://x.com/_johnson_n"><FaSquareXTwitter/></a>
           </div>
        
     </nav>
